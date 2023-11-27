@@ -28,5 +28,6 @@ void updateCommentArea(String comment){
     textSize(45);
     textAlign(CENTER);
     text(result, 225, 260);
+    //ダミー
   }
 }
