@@ -30,3 +30,5 @@ void updateCommentArea(String comment){
     text(result, 225, 260);
   }
 }
+
+//ダミー
